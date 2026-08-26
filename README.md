@@ -115,3 +115,30 @@ After cleaning and loading the data into SQL Server, the database contains:
                        │
                        ▼
                BUSINESS INSIGHTS
+
+
+## 📁 Project Structure
+
+```text
+Retail-Sales-Analytics/
+│
+├── 📄 README.md
+│
+├── 📁 data/
+│   ├── cleaned_customers.csv
+│   ├── cleaned_products.csv
+│   ├── cleaned_sales.csv
+│   └── cleaned_inventory.csv
+│
+├── 📁 python/
+│   └── Retail_Sales_Data_Cleaning.ipynb
+│
+├── 📁 sql/
+│   └── Retail_Sales_Analytics_Complete.sql
+│
+├── 📁 powerbi/
+│   └── Retail_Sales_Analytics_Dashboard.pbix
+│
+└── 📁 screenshots/
+    ├── executive_dashboard.png
+    └── inventory_dashboard.png
