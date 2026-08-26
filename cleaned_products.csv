@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Unit_Price
+P0001,Pro Laptop 1,Electronics,Laptops,58322.43,76089.18
+P0002,Pro Mobile 2,Electronics,Mobiles,16594.99,19957.15
+P0003,Pro Accessorie 3,Electronics,Accessories,4852.77,5766.11
+P0004,Pro Chair 4,Furniture,Chairs,4053.96,5422.13
+P0005,Pro Table 5,Furniture,Tables,3602.57,4470.07
+P0006,Pro Storage 6,Furniture,Storage,5485.98,6595.86
+P0007,Pro Stationery 7,Office Supplies,Stationery,242.85,277.76
+P0008,Pro Paper 8,Office Supplies,Paper,383.34,433.63
+P0009,Pro Writing 9,Office Supplies,Writing,394.86,483.13
+P0010,Pro Kitchen 10,Home Appliances,Kitchen,5771.72,7805.3
+P0011,Pro Cleaning 11,Home Appliances,Cleaning,4777.36,5360.65
+P0012,Pro Small Appliance 12,Home Appliances,Small Appliances,9488.57,11212.24
+P0013,Pro Fitnes 13,Sports,Fitness,1307.11,1725.01
+P0014,Pro Outdoor 14,Sports,Outdoor,3152.72,3886.61
+P0015,Pro Sportswear 15,Sports,Sportswear,1547.71,1953.74
+P0016,Plus Laptop 16,Electronics,Laptops,47347.31,64127.75
+P0017,Plus Mobile 17,Electronics,Mobiles,22329.82,30143.75
+P0018,Plus Accessorie 18,Electronics,Accessories,2929.21,3911.69
+P0019,Plus Chair 19,Furniture,Chairs,6932.49,9020.15
+P0020,Plus Table 20,Furniture,Tables,6892.15,8138.34
+P0021,Plus Storage 21,Furniture,Storage,3714.31,4987.83
+P0022,Plus Stationery 22,Office Supplies,Stationery,659.93,814.72
+P0023,Plus Paper 23,Office Supplies,Paper,219.16,267.24
+P0024,Plus Writing 24,Office Supplies,Writing,317.28,392.84
+P0025,Plus Kitchen 25,Home Appliances,Kitchen,9538.12,13156.71
+P0026,Plus Cleaning 26,Home Appliances,Cleaning,1742.36,2159.67
+P0027,Plus Small Appliance 27,Home Appliances,Small Appliances,4878.86,5850.57
+P0028,Plus Fitnes 28,Sports,Fitness,1985.72,2257.92
+P0029,Plus Outdoor 29,Sports,Outdoor,5356.58,6584.1
+P0030,Plus Sportswear 30,Sports,Sportswear,2685.72,3648.3
+P0031,Classic Laptop 31,Electronics,Laptops,69933.07,80697.89
+P0032,Classic Mobile 32,Electronics,Mobiles,39140.16,48337.53
+P0033,Classic Accessorie 33,Electronics,Accessories,4046.89,5294.55
+P0034,Classic Chair 34,Furniture,Chairs,6770.92,8182.94
+P0035,Classic Table 35,Furniture,Tables,12659.56,14351.15
+P0036,Classic Storage 36,Furniture,Storage,3176.06,3834.34
+P0037,Classic Stationery 37,Office Supplies,Stationery,79.91,94.38
+P0038,Classic Paper 38,Office Supplies,Paper,847.14,1157.66
+P0039,Classic Writing 39,Office Supplies,Writing,166.21,197.59
+P0040,Classic Kitchen 40,Home Appliances,Kitchen,3934.8,4691.1
+P0041,Classic Cleaning 41,Home Appliances,Cleaning,733.55,998.36
+P0042,Classic Small Appliance 42,Home Appliances,Small Appliances,2923.28,3593.3
+P0043,Classic Fitnes 43,Sports,Fitness,572.65,769.11
+P0044,Classic Outdoor 44,Sports,Outdoor,4467.6,6103.44
+P0045,Classic Sportswear 45,Sports,Sportswear,3995.43,4800.76
+P0046,Premium Laptop 46,Electronics,Laptops,46154.3,60065.49
+P0047,Premium Mobile 47,Electronics,Mobiles,29477.41,37354.24
+P0048,Premium Accessorie 48,Electronics,Accessories,329.41,374.24
+P0049,Premium Chair 49,Furniture,Chairs,5654.65,7165.45
+P0050,Premium Table 50,Furniture,Tables,12017.44,13871.86
+P0051,Premium Storage 51,Furniture,Storage,6888.42,8063.28
+P0052,Premium Stationery 52,Office Supplies,Stationery,92.69,113.71
+P0053,Premium Paper 53,Office Supplies,Paper,247.0,290.88
+P0054,Premium Writing 54,Office Supplies,Writing,172.43,204.75
+P0055,Premium Kitchen 55,Home Appliances,Kitchen,1781.02,2036.38
+P0056,Premium Cleaning 56,Home Appliances,Cleaning,1756.12,1989.94
+P0057,Premium Small Appliance 57,Home Appliances,Small Appliances,6638.11,7930.58
+P0058,Premium Fitnes 58,Sports,Fitness,2598.09,3134.13
+P0059,Premium Outdoor 59,Sports,Outdoor,4077.94,5490.39
+P0060,Premium Sportswear 60,Sports,Sportswear,3891.8,5094.98
+P0061,Smart Laptop 61,Electronics,Laptops,56797.6,73859.0
+P0062,Smart Mobile 62,Electronics,Mobiles,38532.59,45323.0
+P0063,Smart Accessorie 63,Electronics,Accessories,1280.37,1532.68
+P0064,Smart Chair 64,Furniture,Chairs,8357.78,10550.26
+P0065,Smart Table 65,Furniture,Tables,11806.86,14287.54
+P0066,Smart Storage 66,Furniture,Storage,5781.02,6663.48
+P0067,Smart Stationery 67,Office Supplies,Stationery,153.61,205.09
+P0068,Smart Paper 68,Office Supplies,Paper,626.35,756.48
+P0069,Smart Writing 69,Office Supplies,Writing,405.37,480.0
+P0070,Smart Kitchen 70,Home Appliances,Kitchen,11731.57,14191.12
+P0071,Smart Cleaning 71,Home Appliances,Cleaning,2692.52,3233.98
+P0072,Smart Small Appliance 72,Home Appliances,Small Appliances,2099.0,2411.53
+P0073,Smart Fitnes 73,Sports,Fitness,5360.79,7223.83
+P0074,Smart Outdoor 74,Sports,Outdoor,4805.97,5559.01
+P0075,Smart Sportswear 75,Sports,Sportswear,2909.68,3338.72
+P0076,Eco Laptop 76,Electronics,Laptops,37038.26,47803.81
+P0077,Eco Mobile 77,Electronics,Mobiles,37687.31,43013.51
+P0078,Eco Accessorie 78,Electronics,Accessories,464.21,639.37
+P0079,Eco Chair 79,Furniture,Chairs,2016.15,2491.11
+P0080,Eco Table 80,Furniture,Tables,9055.43,10418.21
+P0081,Eco Storage 81,Furniture,Storage,3275.15,3967.74
+P0082,Eco Stationery 82,Office Supplies,Stationery,614.11,768.77
+P0083,Eco Paper 83,Office Supplies,Paper,674.11,927.67
+P0084,Eco Writing 84,Office Supplies,Writing,388.64,479.17
+P0085,Eco Kitchen 85,Home Appliances,Kitchen,5800.15,7429.3
+P0086,Eco Cleaning 86,Home Appliances,Cleaning,4824.87,6031.98
+P0087,Eco Small Appliance 87,Home Appliances,Small Appliances,6803.75,7661.83
+P0088,Eco Fitnes 88,Sports,Fitness,3722.17,4438.78
+P0089,Eco Outdoor 89,Sports,Outdoor,1036.29,1187.47
+P0090,Eco Sportswear 90,Sports,Sportswear,3174.68,3987.83
+P0091,Max Laptop 91,Electronics,Laptops,46411.29,57663.57
+P0092,Max Mobile 92,Electronics,Mobiles,35627.15,41708.79
+P0093,Max Accessorie 93,Electronics,Accessories,3364.84,4451.81
+P0094,Max Chair 94,Furniture,Chairs,7498.54,9572.95
+P0095,Max Table 95,Furniture,Tables,9139.66,10381.39
+P0096,Max Storage 96,Furniture,Storage,4522.23,5174.56
+P0097,Max Stationery 97,Office Supplies,Stationery,771.78,891.5
+P0098,Max Paper 98,Office Supplies,Paper,236.6,319.72
+P0099,Max Writing 99,Office Supplies,Writing,473.09,624.06
+P0100,Max Kitchen 100,Home Appliances,Kitchen,860.54,964.11
